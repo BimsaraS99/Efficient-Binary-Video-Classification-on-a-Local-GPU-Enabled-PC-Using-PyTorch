@@ -1,0 +1,10 @@
+torch>=1.10
+torchvision
+pytorch-lightning>=1.5.0
+torchmetrics
+scikit-learn
+matplotlib
+pandas
+numpy
+ipython
+pyav
