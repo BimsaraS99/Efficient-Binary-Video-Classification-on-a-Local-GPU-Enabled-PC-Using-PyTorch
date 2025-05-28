@@ -6,6 +6,8 @@ This repository provides an efficient binary video classification pipeline using
 
 https://github.com/user-attachments/assets/44716d09-0db0-4be8-98f2-2625490bb68e
 
+Real Time Detection Demo - https://youtu.be/-qG0srvAbSg?si=eSTWi9LyRru9_gJo
+
 
 ## **1. What is Video Classification?**
 Video classification is a computer vision task that involves assigning a label or category to a video based on its content. Unlike image classification, which analyzes static frames, video classification considers temporal information across multiple frames to understand motion and context.
